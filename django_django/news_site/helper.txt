@@ -1,0 +1,2 @@
+create user news_user with password 'root';
+create database news_db owner news_user;
